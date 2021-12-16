@@ -1,0 +1,4 @@
+.bounding-box {
+	@apply absolute flex flex-wrap justify-center cursor-pointer;
+	box-shadow: 0 0 0 3px #1492f3 inset;
+}
